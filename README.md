@@ -60,10 +60,29 @@ plt.show()
 ```
 
 ## Output:
+df.head():
+![image](https://github.com/vinushcv/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113975318/4930f29b-bb2f-4f86-b0bc-ad1a25dcf176)
+
+df.tail():
+![image](https://github.com/vinushcv/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113975318/32697766-bf40-4b80-be53-b29e57747769)
+
+Array value of X:
+![image](https://github.com/vinushcv/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113975318/ee56ae92-3779-462a-8fd3-94f925b332de)
+
+Array value of Y:
+![image](https://github.com/vinushcv/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113975318/c5ea284d-dd7f-4583-bda5-d00371059fb4)
+
+Values of Y prediction and Values of Y prediction:
+![image](https://github.com/vinushcv/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113975318/2cdf4f04-05cb-444e-894f-a3a60a953d57)
+
+Training set graph:
 ![image](https://github.com/vinushcv/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113975318/dfe92074-3592-4798-83a2-f65c330ff18c)
 
-
+Test set graph:
 ![image](https://github.com/vinushcv/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113975318/c62d4eb2-1092-479d-b9ef-eec8c2ead530)
+
+Values of MSE, MAE and RMSE:
+![image](https://github.com/vinushcv/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113975318/f156b744-86e5-4c1d-9ee6-81f9ef7f09ed)
 
 
 
